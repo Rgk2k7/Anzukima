@@ -1,0 +1,20 @@
+{
+  "files": {
+    "commands/info/story.js": [
+      {
+        "id": "07c20f61-4431-4f3a-a660-a3944cf39cb2",
+        "line": 11,
+        "version": 220,
+        "index": 229
+      }
+    ],
+    "commands/management/purge.js": [
+      {
+        "id": "bfb480d2-a5d2-4bc9-88ea-4f2443ac2193",
+        "line": 1,
+        "version": 2221,
+        "index": 0
+      }
+    ]
+  }
+}

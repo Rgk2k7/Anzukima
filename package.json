@@ -1,0 +1,41 @@
+{
+  "name": "NameTBD",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node": "^16.9.1"
+  },
+  "dependencies": {
+    "@acurrz/node-random-int": "^1.0.0",
+    "@acurrz/node-sleep": "^1.0.0",
+    "@discordjs/voice": "^0.6.0",
+    "@iamtraction/google-translate": "^1.1.2",
+    "@replit/database": "^2.0.1",
+    "axios": "^0.22.0",
+    "canvas": "^2.8.0",
+    "chalk": "^4.1.2",
+    "comma-number": "^2.1.0",
+    "discord.js": "^13.1.0",
+    "express": "^4.17.1",
+    "ffmpeg-static": "^4.4.0",
+    "fnbr": "^2.0.0",
+    "fortnite-api-com": "^2.2.1",
+    "get-json-promise": "^1.0.7",
+    "json-http": "^1.0.2",
+    "ksoft.js": "^3.1.4",
+    "meme-fetch": "^1.0.3",
+    "moment": "^2.29.1",
+    "node-fetch": "^3.0.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "yt-search": "^2.10.1",
+    "ytdl-core": "^4.9.1"
+  },
+  "description": ""
+}

@@ -1,0 +1,8 @@
+{
+  "blackjack": {
+    "clubs": "♣️",
+    "hearts": "♥️",
+    "spades": "♠️",
+    "diamonds": "♦️"
+  }
+}
